@@ -1,10 +1,11 @@
 .scheduleSelect{
     display: grid;
     grid-area: s-select;
-    background-color: #ff74da;
+    /*background-color: #ff74da;*/
     height: 80px;
     padding-top: 40px;
 
     display: grid;
     grid-template-areas: "s-fromWhere s-destination";
+    grid-gap: 10px;
 }

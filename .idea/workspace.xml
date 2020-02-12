@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec857b7-58f5-4872-9d7c-4bb488f1bd65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +74,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581401017052</updated>
-      <workItem from="1581401022768" duration="9391000" />
+      <workItem from="1581401022768" duration="14704000" />
+      <workItem from="1581509851129" duration="874000" />
     </task>
+    <task id="LOCAL-00001" summary="1 commit">
+      <created>1581426055550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581426055550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1 commit">
+      <created>1581426084521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581426084521</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="713" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581417000436">
@@ -94,26 +110,30 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1581417512746" />
-    <state x="585" y="148" key="CommitChangelistDialog2" timestamp="1581426052444">
+    <state x="585" y="148" key="CommitChangelistDialog2" timestamp="1581426083649">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="585" y="148" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426052444" />
-    <state width="1898" height="280" key="GridCell.Tab.0.bottom" timestamp="1581417513045">
+    <state x="585" y="148" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426083649" />
+    <state width="1898" height="280" key="GridCell.Tab.0.bottom" timestamp="1581508022210">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1898" height="280" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1581417513045" />
-    <state width="1898" height="280" key="GridCell.Tab.0.center" timestamp="1581417513045">
+    <state width="1898" height="280" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022210" />
+    <state width="1898" height="280" key="GridCell.Tab.0.center" timestamp="1581508022210">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1898" height="280" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1581417513045" />
-    <state width="1898" height="280" key="GridCell.Tab.0.left" timestamp="1581417513044">
+    <state width="1898" height="280" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022210" />
+    <state width="1898" height="280" key="GridCell.Tab.0.left" timestamp="1581508022209">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1898" height="280" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1581417513044" />
-    <state width="1898" height="280" key="GridCell.Tab.0.right" timestamp="1581417513045">
+    <state width="1898" height="280" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022209" />
+    <state width="1898" height="280" key="GridCell.Tab.0.right" timestamp="1581508022210">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1898" height="280" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1581417513045" />
+    <state width="1898" height="280" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022210" />
+    <state x="552" y="275" key="Vcs.Push.Dialog.v2" timestamp="1581426109681">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="275" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426109681" />
     <state x="769" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581426031205">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
