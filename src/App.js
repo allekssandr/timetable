@@ -15,8 +15,8 @@ function App() {
                 <Header/>
                 <Navbar/>
                 <div className={'app-wrapper-content'}>
-                    <Route path = '/Stopplace' component={Stopplace}/>
-                    <Route path = '/RouteBus' component={RouteBus}/>
+                    <Route path = '/Stopplace' render={()=><Stopplace/>}/>
+                    <Route path = '/RouteBus' render={()=><RouteBus/>}/>
                 </div>
                 <Footer/>
             </div>

@@ -160,9 +160,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1581417512746" />
-    <state x="585" y="148" key="CommitChangelistDialog2" timestamp="1581426083649">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1581884770655">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1581884770655" />
     <state x="585" y="148" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426083649" />
     <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1581878401576">
       <screen x="0" y="0" width="1366" height="738" />
@@ -232,9 +233,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1345" height="227" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1581795525957" />
-    <state x="552" y="275" key="Vcs.Push.Dialog.v2" timestamp="1581426109681">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="393" y="172" key="Vcs.Push.Dialog.v2" timestamp="1581884775905">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="393" y="172" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1581884775905" />
     <state x="552" y="275" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426109681" />
     <state x="378" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1581764180096">
       <screen x="0" y="0" width="1366" height="738" />
