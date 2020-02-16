@@ -2,23 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec857b7-58f5-4872-9d7c-4bb488f1bd65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/AxiosRequests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MyComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/NavbarItem/NavbarItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/NavbarItem/NavbarItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RouteBus/RouteBus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RouteBus/RouteBus.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RouteBus/RouteBusItem/RouteBusItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RouteBus/RouteBusItem/RouteBusItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stopplace/Stopplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stopplace/Stopplace.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stopplace/StopplaceItem/StopplaceItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stopplace/StopplaceItem/StopplaceItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Title/Title.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Title/Title.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/Destination/Destination.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/FromWhere/FromWhere.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleSelect/ScheduleSelect.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScheduleView/ScheduleView.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1XeKFdAB9P0ghrvDwDzvaRFTVEu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,22 +70,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/ScheduleSelect/WhereTo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Footer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MaiorovAV\WebstormProjects\timetable\src\components\ScheduleSelect\WhereTo" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MaiorovAV\WebstormProjects\timetable\src\components\ScheduleSelect" />
       <recent name="C:\Users\MaiorovAV\WebstormProjects\timetable\src\components\WhereTo" />
       <recent name="C:\Users\MaiorovAV\WebstormProjects\timetable\src\components\FromWhere" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kapital\WebstormProjects\timetable\src\components\Footer" />
+      <recent name="C:\Users\Kapital\WebstormProjects\timetable\src\components\RouteBus" />
+      <recent name="C:\Users\Kapital\WebstormProjects\timetable\src\components\Header" />
+      <recent name="C:\Users\Kapital\WebstormProjects\timetable\src\components\Route" />
+      <recent name="C:\Users\Kapital\WebstormProjects\timetable\src\components\Navbar\NavbarItem" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -76,6 +120,11 @@
       <updated>1581401017052</updated>
       <workItem from="1581401022768" duration="14704000" />
       <workItem from="1581509851129" duration="874000" />
+      <workItem from="1581530460207" duration="2562000" />
+      <workItem from="1581764179846" duration="475000" />
+      <workItem from="1581764847050" duration="649000" />
+      <workItem from="1581774315950" duration="747000" />
+      <workItem from="1581780762802" duration="50598000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1581426055550</created>
@@ -102,9 +151,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="713" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581417000436">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="507" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581857639812">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="507" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1581857639812" />
     <state x="713" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1581417000436" />
     <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581417512746">
       <screen x="0" y="30" width="1920" height="1050" />
@@ -114,29 +164,86 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="585" y="148" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426083649" />
-    <state width="1898" height="280" key="GridCell.Tab.0.bottom" timestamp="1581508022210">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1581878401576">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581878401576" />
     <state width="1898" height="280" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022210" />
-    <state width="1898" height="280" key="GridCell.Tab.0.center" timestamp="1581508022210">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1581878401571">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581878401571" />
     <state width="1898" height="280" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022210" />
-    <state width="1898" height="280" key="GridCell.Tab.0.left" timestamp="1581508022209">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1581878401568">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581878401568" />
     <state width="1898" height="280" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022209" />
-    <state width="1898" height="280" key="GridCell.Tab.0.right" timestamp="1581508022210">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1581878401574">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581878401574" />
     <state width="1898" height="280" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1581508022210" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1581795525951">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581795525951" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1581795525950">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1581795525950" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1581795525950">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1581795525950" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1581795525950">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1581795525950" />
+    <state width="1345" height="227" key="GridCell.Tab.2.bottom" timestamp="1581795525954">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581795525954" />
+    <state width="1345" height="227" key="GridCell.Tab.2.center" timestamp="1581795525952">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1581795525952" />
+    <state width="1345" height="227" key="GridCell.Tab.2.left" timestamp="1581795525952">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1581795525952" />
+    <state width="1345" height="227" key="GridCell.Tab.2.right" timestamp="1581795525953">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1581795525953" />
+    <state width="1345" height="227" key="GridCell.Tab.3.bottom" timestamp="1581795525958">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.3.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581795525958" />
+    <state width="1345" height="227" key="GridCell.Tab.3.center" timestamp="1581795525957">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.3.center/0.0.1366.738@0.0.1366.738" timestamp="1581795525957" />
+    <state width="1345" height="227" key="GridCell.Tab.3.left" timestamp="1581795525956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.3.left/0.0.1366.738@0.0.1366.738" timestamp="1581795525956" />
+    <state width="1345" height="227" key="GridCell.Tab.3.right" timestamp="1581795525957">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1581795525957" />
     <state x="552" y="275" key="Vcs.Push.Dialog.v2" timestamp="1581426109681">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="552" y="275" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426109681" />
-    <state x="769" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581426031205">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="378" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1581764180096">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="378" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1581764180096" />
+    <state x="547" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581884735584">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="547" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1581884735584" />
     <state x="769" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1920.1050@0.30.1920.1050" timestamp="1581426031204" />
   </component>
 </project>

@@ -1,9 +1,16 @@
-.App {
+.app-wrapper {
     margin: 0 auto;
     display: grid;
-    width: 800px;
+    width: 1000px;
 
-    grid-template-areas: "s-select" "s-view";
-    grid-template-rows: 1fr 2fr;
-    grid-gap: 10px;
+    grid-template-areas: "header header" "nav view" "footer footer" ;
+    grid-template-columns: 1.5fr 5fr;
+    grid-template-rows: 50px minmax(800px, 1fr) 30px;
+    grid-column-gap: 1px;
+    background-color: aquamarine;
+}
+
+.app-wrapper-content{
+    grid-area: view;
+    background-color: aliceblue;
 }

@@ -1,0 +1,15 @@
+.NavbarItem{
+    padding: 7px 2px 10px 10px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: aquamarine;
+}
+
+.NavbarItem a{
+    text-decoration: none;
+    color: darkcyan;
+    /*font-size: 12pt;*/
+}
+a.active {
+    color: coral;
+}
